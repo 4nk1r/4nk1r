@@ -5,7 +5,7 @@
 ## 🧻 A little about me:
 🎓&nbsp; Currently studying at 10th grade \
 🎧&nbsp; Rock / Metal / Alternative / Electronic music fan \
-📺&nbsp; Fan of series like Breaking Bad and Stranger Things \
+📺&nbsp; Fan of series like Breaking Bad, Stranger Things and 11.22.63 \
 🇺🇦&nbsp; Hater of Putin, anti-war guy\
 \
 Сurrently I'm working on another unofficial HDRezka app for Android. You can find out more in the [Telegram channel](https://t.me/apphdr).
