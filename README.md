@@ -4,10 +4,10 @@ val 4nk1r = person {
     skills = listOf(
         AndroidDev(
             level = Junior, 
-            experience = (1..2).years
+            experience = (2..3).years
         ),
-        EnglishLanguage(level = average(A2, B1)),
-        RussianLanguage(level = C2)
+        EnglishLanguage(level = B1),
+        RussianLanguage(level = C1)
     )
     petProjects = listOf(
         Project(
