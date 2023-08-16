@@ -7,7 +7,7 @@ val 4nk1r = person {
             experience = (2..4).years
         ),
         EnglishLanguage(level = B1),
-        RussianLanguage(level = C1)
+        RussianLanguage(level = C2)
     )
     petProjects = listOf(
         Project(
