@@ -3,8 +3,8 @@ val 4nk1r = person {
     occupation = Freelancer
     skills = listOf(
         AndroidDev(
-            level = Junior, // am i?
-            experience = (2..4).years
+            level = Junior, // i'm not sure okay?
+            experience = (2..3).years
         ),
         EnglishLanguage(level = B1),
         RussianLanguage(level = C2)
